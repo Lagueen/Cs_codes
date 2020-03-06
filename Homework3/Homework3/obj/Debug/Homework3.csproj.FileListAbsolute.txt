@@ -1,0 +1,6 @@
+D:\C#学习代码\Homework3\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+D:\C#学习代码\Homework3\Homework3\bin\Debug\Homework3.exe.config
+D:\C#学习代码\Homework3\Homework3\bin\Debug\Homework3.exe
+D:\C#学习代码\Homework3\Homework3\bin\Debug\Homework3.pdb
+D:\C#学习代码\Homework3\Homework3\obj\Debug\Homework3.exe
+D:\C#学习代码\Homework3\Homework3\obj\Debug\Homework3.pdb
