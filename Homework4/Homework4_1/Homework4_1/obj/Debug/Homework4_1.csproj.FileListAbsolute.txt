@@ -1,0 +1,7 @@
+D:\C#学习代码\Homework4_1\Homework4_1\bin\Debug\Homework4_1.exe.config
+D:\C#学习代码\Homework4_1\Homework4_1\bin\Debug\Homework4_1.exe
+D:\C#学习代码\Homework4_1\Homework4_1\bin\Debug\Homework4_1.pdb
+D:\C#学习代码\Homework4_1\Homework4_1\obj\Debug\Homework4_1.csprojAssemblyReference.cache
+D:\C#学习代码\Homework4_1\Homework4_1\obj\Debug\Homework4_1.csproj.CoreCompileInputs.cache
+D:\C#学习代码\Homework4_1\Homework4_1\obj\Debug\Homework4_1.exe
+D:\C#学习代码\Homework4_1\Homework4_1\obj\Debug\Homework4_1.pdb
