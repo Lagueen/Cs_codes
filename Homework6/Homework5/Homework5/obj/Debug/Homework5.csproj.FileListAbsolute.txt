@@ -1,0 +1,7 @@
+D:\C#学习代码\Homework5\Homework5\bin\Debug\Homework5.exe.config
+D:\C#学习代码\Homework5\Homework5\bin\Debug\Homework5.exe
+D:\C#学习代码\Homework5\Homework5\bin\Debug\Homework5.pdb
+D:\C#学习代码\Homework5\Homework5\obj\Debug\Homework5.csprojAssemblyReference.cache
+D:\C#学习代码\Homework5\Homework5\obj\Debug\Homework5.csproj.CoreCompileInputs.cache
+D:\C#学习代码\Homework5\Homework5\obj\Debug\Homework5.exe
+D:\C#学习代码\Homework5\Homework5\obj\Debug\Homework5.pdb
