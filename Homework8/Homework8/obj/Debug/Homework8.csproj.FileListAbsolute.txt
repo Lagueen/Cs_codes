@@ -1,0 +1,12 @@
+D:\Csharp\HomeWork8\HomeWork8\bin\Debug\HomeWork8.exe.config
+D:\Csharp\HomeWork8\HomeWork8\bin\Debug\HomeWork8.exe
+D:\Csharp\HomeWork8\HomeWork8\bin\Debug\HomeWork8.pdb
+D:\Csharp\HomeWork8\HomeWork8\obj\Debug\HomeWork8.csprojAssemblyReference.cache
+D:\Csharp\HomeWork8\HomeWork8\obj\Debug\HomeWork8.exe
+D:\Csharp\HomeWork8\HomeWork8\obj\Debug\HomeWork8.pdb
+C:\Users\李俊\Desktop\Homework8\HomeWork8\bin\Debug\HomeWork8.exe.config
+C:\Users\李俊\Desktop\Homework8\HomeWork8\bin\Debug\HomeWork8.exe
+C:\Users\李俊\Desktop\Homework8\HomeWork8\bin\Debug\HomeWork8.pdb
+C:\Users\李俊\Desktop\Homework8\HomeWork8\obj\Debug\HomeWork8.csproj.CoreCompileInputs.cache
+C:\Users\李俊\Desktop\Homework8\HomeWork8\obj\Debug\HomeWork8.exe
+C:\Users\李俊\Desktop\Homework8\HomeWork8\obj\Debug\HomeWork8.pdb
