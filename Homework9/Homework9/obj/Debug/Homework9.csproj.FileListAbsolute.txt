@@ -1,0 +1,6 @@
+D:\C#学习代码\Homework9\Homework9\obj\Debug\Homework9.csproj.CoreCompileInputs.cache
+D:\C#学习代码\Homework9\Homework9\bin\Debug\Homework9.exe.config
+D:\C#学习代码\Homework9\Homework9\bin\Debug\Homework9.exe
+D:\C#学习代码\Homework9\Homework9\bin\Debug\Homework9.pdb
+D:\C#学习代码\Homework9\Homework9\obj\Debug\Homework9.exe
+D:\C#学习代码\Homework9\Homework9\obj\Debug\Homework9.pdb
